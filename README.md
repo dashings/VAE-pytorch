@@ -1,2 +1,2 @@
 # VAE-pytorch
-An implementation of Variational Auto-encoder with TNSE Visualization  on MNIST dataset.
+An implementation of Variational Auto-encoder with TSNE Visualization  on MNIST dataset.
